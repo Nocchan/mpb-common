@@ -55,6 +55,13 @@
 | `F` | 30% | 40% | 8.57% | 7.14% | 5.71% | 4.29% | 2.86% | 1.43% | |
 | `G` | 30% | 40% | 7.50% | 6.43% | 5.36% | 4.29% | 3.21% | 2.14% | 1.07% |
 
+<details>
+<summary>表示が崩れる方へ</summary>
+
+<img width="602" alt="image" src="https://github.com/Nocchan/mpb-common/assets/109577965/6390811f-3c9e-4f24-a68d-ff9eaccacb4a">
+
+</details>
+
 ## 対スペ
 
 - [TSOB枠](/others.md/#tsob枠)制限対象外の選手
